@@ -1,0 +1,10 @@
+Hi mundo
+Bye mundo
+Hi, ¿cómo estás?
+adios, nos vemos pronto
+Hi amigos
+Bye amigos
+Hi universo
+Bye universo
+Hi a todos
+Bye a todos
