@@ -1,5 +1,0 @@
-
-noparam() {
-
-	echo "Lo siento $USER, no has facilitado ningún parámetro. Necesita facilitar al menos un argumento"
-}
